@@ -14,8 +14,6 @@
 
 ## Windows 使用方法
 
-请先运行本脚本，确认执行完成后，再启动 VPN 软件。
-
 系统启动后，在资源管理器中找到：
 
 ```text
@@ -33,8 +31,6 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\domestic-route.ps1
 ```
 
 ## Linux 使用方法
-
-请先运行本脚本，确认执行完成后，再启动 VPN 软件。
 
 Linux 上需要以 root 身份运行，推荐使用 `sudo`：
 
